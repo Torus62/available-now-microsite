@@ -1,0 +1,103 @@
+.bg-teal {
+    background-color: #44B7A9;
+}
+
+.bg-grey {
+    background-color: #444945;
+}
+
+.available-grey {
+    color: #444945;
+}
+
+.available-teal {
+    color: #44B7A9;
+}
+
+.masthead {
+    min-height: 100vh;
+    background: no-repeat top url("/media/MAIN-IMAGE.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+@media (max-width: 992px) {
+    .masthead-row {
+        min-height: 100vh;
+    }
+}
+
+.masthead-row {
+    min-height: 100vh;
+    padding-right: 10rem !important;
+    padding-left: 10rem !important;
+}
+
+.min-50 {
+    min-height: 50vh;
+}
+
+.feature {
+    font-size: 24px;
+}
+
+.features-img {
+    min-height: 75vh;
+    background: no-repeat bottom url('/media/SHALLCROSS.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.btn-submit {
+    color: #fff;
+    background-color: #444945;
+    border-color: #444945;
+}
+
+.btn-submit:hover {
+    color: #fff;
+    background-color: #444945;
+    border-color: #444945;
+  }
+
+  .footnote {
+      font-size: 12px;
+      margin-top: 20px;
+  }
+
+.intro {
+font-size: 1.2rem;
+}
+
+.nav-tabs {
+    font-size: 1.5rem;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+a {
+    font-size: 1.2rem;
+    color: #434944;
+}
+
+li {
+    font-size: 1.2rem;
+}
+
+.nav-link {
+    color: #fff;
+}
+
+.nav-link .active {
+    color: #495057;
+}
+
+li a {
+    color:#fff;
+}
+
+.card {
+    background-color: #DADADA;
+}
